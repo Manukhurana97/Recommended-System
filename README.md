@@ -18,4 +18,4 @@ This repository contain 5 files all contain different type of recommended system
 {This is the one of the most powerfull type of remommendation system }
 # Liberary used
 ![Image of Sklearn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/220px-Scikit_learn_logo_small.svg.png)
-![Image of KNN](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/220px-Scikit_learn_logo_small.svg.png)
+
